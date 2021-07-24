@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(1-drawsomething.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  StartInterface.c
+C:\Users\gongs\Desktop\台球游戏\simpleGUI\StartInterface.c(12,17): warning C4013: “game1interface”未定义；假设外部返回 int
+C:\Users\gongs\Desktop\台球游戏\simpleGUI\StartInterface.c(17,17): warning C4013: “game2interface”未定义；假设外部返回 int
+  1-drawsomething.vcxproj -> C:\Users\gongs\Desktop\台球游戏\台球\Debug\台球.exe

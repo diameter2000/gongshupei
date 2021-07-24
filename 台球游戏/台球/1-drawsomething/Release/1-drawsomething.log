@@ -1,0 +1,33 @@
+﻿  ball.c
+  cuenewest.c
+  game1.c
+C:\Users\gongs\Desktop\台球游戏\simpleGUI\game1.c(189,16): warning C4013: “DrawInterface”未定义；假设外部返回 int
+  basic_image.c
+C:\Users\gongs\Desktop\台球游戏\simpleGUI\basic_image.c(119,15): warning C4013: “IfBallStop”未定义；假设外部返回 int
+  collision.c
+  game2.c
+C:\Users\gongs\Desktop\台球游戏\simpleGUI\game2.c(157,17): warning C4013: “SetBallMessage2”未定义；假设外部返回 int
+  record.c
+  StartInterface.c
+C:\Users\gongs\Desktop\台球游戏\simpleGUI\StartInterface.c(12,17): warning C4013: “game1interface”未定义；假设外部返回 int
+C:\Users\gongs\Desktop\台球游戏\simpleGUI\StartInterface.c(17,17): warning C4013: “game2interface”未定义；假设外部返回 int
+  TableBlackground.c
+C:\Users\gongs\Desktop\台球游戏\simpleGUI\TableBlackground.c(92,15): warning C4013: “mySetPenColor”未定义；假设外部返回 int
+C:\Users\gongs\Desktop\台球游戏\simpleGUI\TableBlackground.c(137,41): warning C4020: “ReadRecord1”: 实参太多
+C:\Users\gongs\Desktop\台球游戏\simpleGUI\TableBlackground.c(138,41): warning C4020: “ReadRecord1”: 实参太多
+C:\Users\gongs\Desktop\台球游戏\simpleGUI\TableBlackground.c(139,41): warning C4020: “ReadRecord1”: 实参太多
+C:\Users\gongs\Desktop\台球游戏\simpleGUI\TableBlackground.c(150,41): warning C4020: “SaveRecord1”: 实参太多
+C:\Users\gongs\Desktop\台球游戏\simpleGUI\TableBlackground.c(151,41): warning C4020: “SaveRecord1”: 实参太多
+C:\Users\gongs\Desktop\台球游戏\simpleGUI\TableBlackground.c(152,41): warning C4020: “SaveRecord1”: 实参太多
+C:\Users\gongs\Desktop\台球游戏\simpleGUI\TableBlackground.c(160,25): warning C4013: “SetBallMessage2”未定义；假设外部返回 int
+C:\Users\gongs\Desktop\台球游戏\simpleGUI\TableBlackground.c(220,19): warning C4013: “WhiteBallInHole2”未定义；假设外部返回 int
+C:\Users\gongs\Desktop\台球游戏\simpleGUI\TableBlackground.c(221,17): warning C4013: “checkwronghit2”未定义；假设外部返回 int
+C:\Users\gongs\Desktop\台球游戏\simpleGUI\TableBlackground.c(222,21): warning C4013: “CountScore_2”未定义；假设外部返回 int
+  test.c
+  main.c
+  正在生成代码
+  70 of 149 functions (47.0%) were compiled, the rest were copied from previous compilation.
+    36 functions were new in current compilation
+    10 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  1-drawsomething.vcxproj -> C:\Users\gongs\Desktop\台球游戏\台球\Release\台球.exe
